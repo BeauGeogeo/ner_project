@@ -43,7 +43,7 @@ squale
 squirrel
 tiger
 turtle
-wale
+whale
 walrus
 wolf
 zebra
